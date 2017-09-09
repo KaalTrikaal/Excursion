@@ -20,17 +20,24 @@ p {
   margin-right: auto;
   display: block;
 }
-#h1p {
+.h1p {
   font-family:  Verdana;
   font-weight: 300;
   font-size: 42px;
   color: white;
   text-align: center;
 }
-#h1p, p {
+.h1p, p {
   font-family: Verdana;
   font-size: 21px;
   color: gray;
+}
+.image {
+  height: 100%;
+  width: 100%;
+}
+.center {
+  text-align: center;
 }
 #footer {
   text-align: right;
